@@ -494,7 +494,7 @@ namespace Challenges
             CollectionTest2,
             MixedCollectionTest,
             RecursionTest,
-            RecursionTest2,
+           // RecursionTest2,
             PerformanceTest,
         };
 
